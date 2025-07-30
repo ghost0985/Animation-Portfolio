@@ -122,7 +122,7 @@ export const Hero = () => {
     "Problem-solving addict",
   ],
   missionStatement:
-    "Transforming ideas into sleek interfaces and bugs into documented features.",
+    "Transforming ideas into sleek interfaces and bugs into features.",
   availability: "Open to opportunities",
 };`}
             </SyntaxHighlighter>
